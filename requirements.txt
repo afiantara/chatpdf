@@ -1,0 +1,15 @@
+langchain==0.0.154
+langchain-community
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.22.0
+faiss-cpu==1.7.4
+streamlit-extras==0.3.5
+unstructured
+Cython
+tiktoken
+unstructured[local-inference]
+faiss-cpu
+huggingface_hub
+sentence_transformers
+pyllamacpp==2.4.3
